@@ -8,7 +8,11 @@ Classification of normal vs tumor samples
 ## Installation
 ### Clone
 
-- Clone this repo to your local machine using "https://github.com/EmanuelSoda/ProgrammingR.git"
+- Clone this repo to your local machine using:
+```bash
+git clone https://github.com/EmanuelSoda/ProgrammingR.git
+```
+
 
 
 ## Description
