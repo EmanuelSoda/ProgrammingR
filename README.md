@@ -5,6 +5,11 @@ Classification of normal vs tumor samples
 * R
 * Jupyter notebook
 
+## Installation
+### Clone
+
+- Clone this repo to your local machine using "https://github.com/EmanuelSoda/ProgrammingR.git"
+
 
 ## Description
 The project is made up by two main part a "Script" which create a file in ".txt"
