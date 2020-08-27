@@ -1,2 +1,1 @@
-# ProgrammingR
-Project Scientific Programming R
+#  Scientific Programming R project
